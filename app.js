@@ -17,4 +17,3 @@ app.use("/api",rutas_scraping);
 
 
 module.exports = app;
-
